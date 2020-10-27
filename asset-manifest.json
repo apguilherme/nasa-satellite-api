@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/nasa-satellite-api/static/css/main.93027661.chunk.css",
+    "main.js": "/nasa-satellite-api/static/js/main.93e7876e.chunk.js",
+    "main.js.map": "/nasa-satellite-api/static/js/main.93e7876e.chunk.js.map",
+    "runtime-main.js": "/nasa-satellite-api/static/js/runtime-main.426571b8.js",
+    "runtime-main.js.map": "/nasa-satellite-api/static/js/runtime-main.426571b8.js.map",
+    "static/js/2.884ba458.chunk.js": "/nasa-satellite-api/static/js/2.884ba458.chunk.js",
+    "static/js/2.884ba458.chunk.js.map": "/nasa-satellite-api/static/js/2.884ba458.chunk.js.map",
+    "index.html": "/nasa-satellite-api/index.html",
+    "static/css/main.93027661.chunk.css.map": "/nasa-satellite-api/static/css/main.93027661.chunk.css.map",
+    "static/js/2.884ba458.chunk.js.LICENSE.txt": "/nasa-satellite-api/static/js/2.884ba458.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.426571b8.js",
+    "static/js/2.884ba458.chunk.js",
+    "static/css/main.93027661.chunk.css",
+    "static/js/main.93e7876e.chunk.js"
+  ]
+}
